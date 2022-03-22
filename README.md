@@ -1,4 +1,4 @@
-🔭 I’m currently working with React Native & TypeScript
+🔭 I’m Here
 
 <!--
 **devheedoo/devheedoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
